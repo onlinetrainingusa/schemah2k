@@ -1,0 +1,727 @@
+< script type = "application/ld+json" > {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "GeeksforGeeks Courses",
+    "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+            "@type": "Course",
+            "url": "https://www.geeksforgeeks.org/courses/dsa-to-development-coding-guide",
+            "name": "DSA to Development: A Complete Guide",
+            "description": "This course is designed to take you on a transformative journey from mastering Data Structures and Algorithms (DSA) to becoming a proficient developer. Whether you aspire to become a full-stack developer or specialize in a specific technology stack, this course provides the essential building blocks for your coding journey starting right from basic programming to building applications.",
+            "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/504/Web/Content/DSA-to-Dev_1705410853.webp"],
+            "provider": {
+                "@type": "Organization",
+                "name": "GeeksforGeeks",
+                "url": "https://www.geeksforgeeks.org/courses"
+            },
+            "hasCourseInstance": [{
+                "@type": "CourseInstance",
+                "name": "DSA to Development: A Complete Guide",
+                "description": "This course is designed to take you on a transformative journey from mastering Data Structures and Algorithms (DSA) to becoming a proficient developer. Whether you aspire to become a full-stack developer or specialize in a specific technology stack, this course provides the essential building blocks for your coding journey starting right from basic programming to building applications.",
+                "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/504/Web/Content/DSA-to-Dev_1705410853.webp"],
+                "courseMode": "Online",
+                "courseSchedule": {
+                    "@type": "Schedule",
+                    "duration": "P27DT12H",
+                    "repeatCount": "26",
+                    "repeatFrequency": "Weekly"
+                }
+            }],
+            "offers": [{
+                "@type": "Offer",
+                "category": "Paid",
+                "price": 13999,
+                "availability": "http://schema.org/InStock",
+                "priceCurrency": "INR"
+            }]
+        }
+    }, {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+            "@type": "Course",
+            "url": "https://www.geeksforgeeks.org/courses/full-stack-node",
+            "name": "Full Stack Development with React & Node JS - Live",
+            "description": "Looking to become a full-stack developer? This live, online course with a focus on the popular JS library React for front-end and Node.js for back-end along with APIs and deployment is a must-have program for any aspiring developer",
+            "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/241/Web/Content/FSRNL_1705410152.webp"],
+            "provider": {
+                "@type": "Organization",
+                "name": "GeeksforGeeks",
+                "url": "https://www.geeksforgeeks.org/courses"
+            },
+            "hasCourseInstance": [{
+                "@type": "CourseInstance",
+                "name": "Full Stack Development with React & Node JS - Live",
+                "description": "Looking to become a full-stack developer? This live, online course with a focus on the popular JS library React for front-end and Node.js for back-end along with APIs and deployment is a must-have program for any aspiring developer",
+                "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/241/Web/Content/FSRNL_1705410152.webp"],
+                "courseMode": "Online",
+                "courseSchedule": {
+                    "@type": "Schedule",
+                    "duration": "P6DT16H",
+                    "repeatCount": "10",
+                    "repeatFrequency": "Weekly"
+                }
+            }],
+            "offers": [{
+                "@type": "Offer",
+                "category": "Paid",
+                "price": 10499,
+                "availability": "http://schema.org/InStock",
+                "priceCurrency": "INR"
+            }]
+        }
+    }, {
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+            "@type": "Course",
+            "url": "https://www.geeksforgeeks.org/courses/data-science-live",
+            "name": "Complete Machine Learning & Data Science Program",
+            "description": "Unleash your inner data scientist with our Machine Learning & Data Science program. Explore a 360-degree learning experience designed for geeks who wish to get hands-on Data Science and ML. Mentored by industry experts; learn to apply DS methods and techniques, and acquire analytical skills. So Master the Art of Data Science Now!",
+            "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/405/Web/Content/ML-DS_1705408960.webp"],
+            "provider": {
+                "@type": "Organization",
+                "name": "GeeksforGeeks",
+                "url": "https://www.geeksforgeeks.org/courses"
+            },
+            "hasCourseInstance": [{
+                "@type": "CourseInstance",
+                "name": "Complete Machine Learning & Data Science Program",
+                "description": "Unleash your inner data scientist with our Machine Learning & Data Science program. Explore a 360-degree learning experience designed for geeks who wish to get hands-on Data Science and ML. Mentored by industry experts; learn to apply DS methods and techniques, and acquire analytical skills. So Master the Art of Data Science Now!",
+                "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/405/Web/Content/ML-DS_1705408960.webp"],
+                "courseMode": "Online",
+                "courseSchedule": {
+                    "@type": "Schedule",
+                    "duration": "P3DT18H",
+                    "repeatCount": "26",
+                    "repeatFrequency": "Weekly"
+                }
+            }],
+            "offers": [{
+                "@type": "Offer",
+                "category": "Paid",
+                "price": 4499,
+                "availability": "http://schema.org/InStock",
+                "priceCurrency": "INR"
+            }]
+        }
+    }, {
+        "@type": "ListItem",
+        "position": 4,
+        "item": {
+            "@type": "Course",
+            "url": "https://www.geeksforgeeks.org/courses/gate-ds-ai-self-paced",
+            "name": "GATE Data Science and Artificial Intelligence 2025",
+            "description": "Unlock success with our GATE Data Science and ArtificiaI Intelligence 2025. Specially curated by experts, our courses in Machine Learning and Artificial Intelligence are your gateway to academic excellence. Fast-track your career and unleash your potential - Enroll now!",
+            "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/731/Web/Content/gateda_1711440087_1715238188.webp"],
+            "provider": {
+                "@type": "Organization",
+                "name": "GeeksforGeeks",
+                "url": "https://www.geeksforgeeks.org/courses"
+            },
+            "hasCourseInstance": [{
+                "@type": "CourseInstance",
+                "name": "GATE Data Science and Artificial Intelligence 2025",
+                "description": "Unlock success with our GATE Data Science and ArtificiaI Intelligence 2025. Specially curated by experts, our courses in Machine Learning and Artificial Intelligence are your gateway to academic excellence. Fast-track your career and unleash your potential - Enroll now!",
+                "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/731/Web/Content/gateda_1711440087_1715238188.webp"],
+                "courseMode": "Online",
+                "courseSchedule": {
+                    "@type": "Schedule",
+                    "duration": "P8DT8H",
+                    "repeatCount": "26",
+                    "repeatFrequency": "Weekly"
+                }
+            }],
+            "offers": [{
+                "@type": "Offer",
+                "category": "Paid",
+                "price": 5249,
+                "availability": "http://schema.org/InStock",
+                "priceCurrency": "INR"
+            }]
+        }
+    }, {
+        "@type": "ListItem",
+        "position": 5,
+        "item": {
+            "@type": "Course",
+            "url": "https://www.geeksforgeeks.org/courses/interviewe-101-data-structures-algorithm-system-design",
+            "name": "Tech Interview 101 - From DSA to System Design for Working Professionals",
+            "description": "Why do Professionals in Software Engineering often struggle to create efficient and scalable systems?Well, the solution lies in integrating DSA principles effectively into real-world System Design scenarios. If you want to learn this in order to crack the Tech Giants, register now!!!",
+            "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/458/Web/Content/interview-101_1705399030.webp"],
+            "provider": {
+                "@type": "Organization",
+                "name": "GeeksforGeeks",
+                "url": "https://www.geeksforgeeks.org/courses"
+            },
+            "hasCourseInstance": [{
+                "@type": "CourseInstance",
+                "name": "Tech Interview 101 - From DSA to System Design for Working Professionals",
+                "description": "Why do Professionals in Software Engineering often struggle to create efficient and scalable systems?Well, the solution lies in integrating DSA principles effectively into real-world System Design scenarios. If you want to learn this in order to crack the Tech Giants, register now!!!",
+                "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/458/Web/Content/interview-101_1705399030.webp"],
+                "courseMode": "Online",
+                "courseSchedule": {
+                    "@type": "Schedule",
+                    "duration": "P10DT10H",
+                    "repeatCount": "16",
+                    "repeatFrequency": "Weekly"
+                }
+            }],
+            "offers": [{
+                "@type": "Offer",
+                "category": "Paid",
+                "price": 13499,
+                "availability": "http://schema.org/InStock",
+                "priceCurrency": "INR"
+            }]
+        }
+    }, {
+        "@type": "ListItem",
+        "position": 6,
+        "item": {
+            "@type": "Course",
+            "url": "https://www.geeksforgeeks.org/courses/complete-guide-to-software-testing-automation",
+            "name": "Complete Guide to Software Testing and Automation: Master Java, Selenium and Cucumber",
+            "description": "Unlock the power of software testing and automation. Explore theory, techniques, and tools to become a software quality assurance expert or software tester. Master frameworks for reliable software, faster development cycles & success in software testing.",
+            "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/517/Web/Content/Software-Testing_1705407884.webp"],
+            "provider": {
+                "@type": "Organization",
+                "name": "GeeksforGeeks",
+                "url": "https://www.geeksforgeeks.org/courses"
+            },
+            "hasCourseInstance": [{
+                "@type": "CourseInstance",
+                "name": "Complete Guide to Software Testing and Automation: Master Java, Selenium and Cucumber",
+                "description": "Unlock the power of software testing and automation. Explore theory, techniques, and tools to become a software quality assurance expert or software tester. Master frameworks for reliable software, faster development cycles & success in software testing.",
+                "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/517/Web/Content/Software-Testing_1705407884.webp"],
+                "courseMode": "Online",
+                "courseSchedule": {
+                    "@type": "Schedule",
+                    "duration": "P2DT2H",
+                    "repeatCount": "10",
+                    "repeatFrequency": "Weekly"
+                }
+            }],
+            "offers": [{
+                "@type": "Offer",
+                "category": "Paid",
+                "price": 8999,
+                "availability": "http://schema.org/InStock",
+                "priceCurrency": "INR"
+            }]
+        }
+    }, {
+        "@type": "ListItem",
+        "position": 7,
+        "item": {
+            "@type": "Course",
+            "url": "https://www.geeksforgeeks.org/courses/Java-backend-live",
+            "name": "JAVA Backend Development - Live",
+            "description": "Our Java Backend Development course is a 10-week guided program to equip you with the right skills and make you interview-ready. Not only this get hands on experience of building web apps like e-wallet, movie ticket booking, etc.",
+            "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/227/Web/Content/JAVA-Backend-Development_1705409529.webp"],
+            "provider": {
+                "@type": "Organization",
+                "name": "GeeksforGeeks",
+                "url": "https://www.geeksforgeeks.org/courses"
+            },
+            "hasCourseInstance": [{
+                "@type": "CourseInstance",
+                "name": "JAVA Backend Development - Live",
+                "description": "Our Java Backend Development course is a 10-week guided program to equip you with the right skills and make you interview-ready. Not only this get hands on experience of building web apps like e-wallet, movie ticket booking, etc.",
+                "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/227/Web/Content/JAVA-Backend-Development_1705409529.webp"],
+                "courseMode": "Online",
+                "courseSchedule": {
+                    "@type": "Schedule",
+                    "duration": "P3DT18H",
+                    "repeatCount": "10",
+                    "repeatFrequency": "Weekly"
+                }
+            }],
+            "offers": [{
+                "@type": "Offer",
+                "category": "Paid",
+                "price": 10499,
+                "availability": "http://schema.org/InStock",
+                "priceCurrency": "INR"
+            }]
+        }
+    }, {
+        "@type": "ListItem",
+        "position": 8,
+        "item": {
+            "@type": "Course",
+            "url": "https://www.geeksforgeeks.org/courses/devops-live",
+            "name": "DevOps Engineering - Planning to Production",
+            "description": "Get ready to revolutionize your process & take your career to the next level with this DevOps - Live course! Gain insights from industry experts on how to make your workflow more efficient & improve the ability to quickly release high-quality software.",
+            "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/483/Web/Content/devops-web_1705409371.webp"],
+            "provider": {
+                "@type": "Organization",
+                "name": "GeeksforGeeks",
+                "url": "https://www.geeksforgeeks.org/courses"
+            },
+            "hasCourseInstance": [{
+                "@type": "CourseInstance",
+                "name": "DevOps Engineering - Planning to Production",
+                "description": "Get ready to revolutionize your process & take your career to the next level with this DevOps - Live course! Gain insights from industry experts on how to make your workflow more efficient & improve the ability to quickly release high-quality software.",
+                "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/483/Web/Content/devops-web_1705409371.webp"],
+                "courseMode": "Online",
+                "courseSchedule": {
+                    "@type": "Schedule",
+                    "duration": "P2D",
+                    "repeatCount": "10",
+                    "repeatFrequency": "Weekly"
+                }
+            }],
+            "offers": [{
+                "@type": "Offer",
+                "category": "Paid",
+                "price": 8999,
+                "availability": "http://schema.org/InStock",
+                "priceCurrency": "INR"
+            }]
+        }
+    }, {
+        "@type": "ListItem",
+        "position": 9,
+        "item": {
+            "@type": "Course",
+            "url": "https://www.geeksforgeeks.org/courses/complete-interview-preparation",
+            "name": "Complete Interview Preparation",
+            "description": "An interview-centric & placement-preparation course designed to prepare you for the role of SDE for product and service-based companies. Choose between Java, Python OR C++ and learn Resume Building, DSA, Core Subjects, Aptitude, Reasoning, and much more!",
+            "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/244/Web/Content/CIP_1703848104.webp"],
+            "provider": {
+                "@type": "Organization",
+                "name": "GeeksforGeeks",
+                "url": "https://www.geeksforgeeks.org/courses"
+            },
+            "hasCourseInstance": [{
+                "@type": "CourseInstance",
+                "name": "Complete Interview Preparation",
+                "description": "An interview-centric & placement-preparation course designed to prepare you for the role of SDE for product and service-based companies. Choose between Java, Python OR C++ and learn Resume Building, DSA, Core Subjects, Aptitude, Reasoning, and much more!",
+                "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/244/Web/Content/CIP_1703848104.webp"],
+                "courseMode": "Online",
+                "courseSchedule": {
+                    "@type": "Schedule",
+                    "duration": "P20DT20H",
+                    "repeatCount": "26",
+                    "repeatFrequency": "Weekly"
+                }
+            }],
+            "offers": [{
+                "@type": "Offer",
+                "category": "Paid",
+                "price": 5249,
+                "availability": "http://schema.org/InStock",
+                "priceCurrency": "INR"
+            }]
+        }
+    }, {
+        "@type": "ListItem",
+        "position": 10,
+        "item": {
+            "@type": "Course",
+            "url": "https://www.geeksforgeeks.org/courses/Data-Structures-With-Python",
+            "name": "Data Structures & Algorithms in Python - Self Paced",
+            "description": "The most popular course on DSA trusted by over 100,000 students is now in Python! Built with years of experience by industry experts this course gives you a complete package of video lectures, practice problems, quizzes, discussion forums, contests, and instant doubt-support. Start Learning Today!!",
+            "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/261/Web/Content/dsa-web_1705410455.webp"],
+            "provider": {
+                "@type": "Organization",
+                "name": "GeeksforGeeks",
+                "url": "https://www.geeksforgeeks.org/courses"
+            },
+            "hasCourseInstance": [{
+                "@type": "CourseInstance",
+                "name": "Data Structures & Algorithms in Python - Self Paced",
+                "description": "The most popular course on DSA trusted by over 100,000 students is now in Python! Built with years of experience by industry experts this course gives you a complete package of video lectures, practice problems, quizzes, discussion forums, contests, and instant doubt-support. Start Learning Today!!",
+                "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/261/Web/Content/dsa-web_1705410455.webp"],
+                "courseMode": "Online",
+                "courseSchedule": {
+                    "@type": "Schedule",
+                    "duration": "P9DT2H",
+                    "repeatCount": "16",
+                    "repeatFrequency": "Weekly"
+                }
+            }],
+            "offers": [{
+                "@type": "Offer",
+                "category": "Paid",
+                "price": 2999,
+                "availability": "http://schema.org/InStock",
+                "priceCurrency": "INR"
+            }]
+        }
+    }, {
+        "@type": "ListItem",
+        "position": 11,
+        "item": {
+            "@type": "Course",
+            "url": "https://www.geeksforgeeks.org/courses/dsa-self-paced",
+            "name": "Data Structures and Algorithms - Self Paced",
+            "description": "Most popular course on DSA trusted by over 1,00,000+ students! Built with years of experience by industry experts the course gives you a complete package of video lectures, practice problems, quizzes, discussion forums, and contests. Start Today!",
+            "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/198/Web/Content/Course_DSA-min_1716373371.webp"],
+            "provider": {
+                "@type": "Organization",
+                "name": "GeeksforGeeks",
+                "url": "https://www.geeksforgeeks.org/courses"
+            },
+            "hasCourseInstance": [{
+                "@type": "CourseInstance",
+                "name": "Data Structures and Algorithms - Self Paced",
+                "description": "Most popular course on DSA trusted by over 1,00,000+ students! Built with years of experience by industry experts the course gives you a complete package of video lectures, practice problems, quizzes, discussion forums, and contests. Start Today!",
+                "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/198/Web/Content/Course_DSA-min_1716373371.webp"],
+                "courseMode": "Online",
+                "courseSchedule": {
+                    "@type": "Schedule",
+                    "duration": "P9DT14H",
+                    "repeatCount": "16",
+                    "repeatFrequency": "Weekly"
+                }
+            }],
+            "offers": [{
+                "@type": "Offer",
+                "category": "Paid",
+                "price": 2999,
+                "availability": "http://schema.org/InStock",
+                "priceCurrency": "INR"
+            }]
+        }
+    }, {
+        "@type": "ListItem",
+        "position": 12,
+        "item": {
+            "@type": "Course",
+            "url": "https://www.geeksforgeeks.org/courses/mastering-android-app-development",
+            "name": "Mastering Android Development with Kotlin From Beginner to Pro",
+            "description": "Unlock the full potential of Android app development with our dynamic Android with Kotlin course. Build real-world projects, & bring ideas to life. Enroll now & become a skilled Android developer!",
+            "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/516/Web/Content/Course_AndroidDevelopment-min-ezgifcom-png-to-webp-converter_1716375419.webp"],
+            "provider": {
+                "@type": "Organization",
+                "name": "GeeksforGeeks",
+                "url": "https://www.geeksforgeeks.org/courses"
+            },
+            "hasCourseInstance": [{
+                "@type": "CourseInstance",
+                "name": "Mastering Android Development with Kotlin From Beginner to Pro",
+                "description": "Unlock the full potential of Android app development with our dynamic Android with Kotlin course. Build real-world projects, & bring ideas to life. Enroll now & become a skilled Android developer!",
+                "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/516/Web/Content/Course_AndroidDevelopment-min-ezgifcom-png-to-webp-converter_1716375419.webp"],
+                "courseMode": "Online",
+                "courseSchedule": {
+                    "@type": "Schedule",
+                    "duration": "P1DT6H",
+                    "repeatCount": "8",
+                    "repeatFrequency": "Weekly"
+                }
+            }],
+            "offers": [{
+                "@type": "Offer",
+                "category": "Paid",
+                "price": 2099,
+                "availability": "http://schema.org/InStock",
+                "priceCurrency": "INR"
+            }]
+        }
+    }, {
+        "@type": "ListItem",
+        "position": 13,
+        "item": {
+            "@type": "Course",
+            "url": "https://www.geeksforgeeks.org/courses/react-js-beginner-to-advance",
+            "name": "Mastering ReactJS - Complete Beginner to Advance",
+            "description": "Transform into a job-ready ReactJS developer with our comprehensive course. From beginner to advanced, master essential concepts, build dynamic web applications, and unlock the full potential of ReactJS for your development projects.",
+            "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/662/Web/Content/reactw_1716625282.webp"],
+            "provider": {
+                "@type": "Organization",
+                "name": "GeeksforGeeks",
+                "url": "https://www.geeksforgeeks.org/courses"
+            },
+            "hasCourseInstance": [{
+                "@type": "CourseInstance",
+                "name": "Mastering ReactJS - Complete Beginner to Advance",
+                "description": "Transform into a job-ready ReactJS developer with our comprehensive course. From beginner to advanced, master essential concepts, build dynamic web applications, and unlock the full potential of ReactJS for your development projects.",
+                "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/662/Web/Content/reactw_1716625282.webp"],
+                "courseMode": "Online",
+                "courseSchedule": {
+                    "@type": "Schedule",
+                    "duration": "PT21H",
+                    "repeatCount": "8",
+                    "repeatFrequency": "Weekly"
+                }
+            }],
+            "offers": [{
+                "@type": "Offer",
+                "category": "Paid",
+                "price": 2499,
+                "availability": "http://schema.org/InStock",
+                "priceCurrency": "INR"
+            }]
+        }
+    }, {
+        "@type": "ListItem",
+        "position": 14,
+        "item": {
+            "@type": "Course",
+            "url": "https://www.geeksforgeeks.org/courses/mastering-django-framework-beginner-to-advance",
+            "name": "Mastering Django Framework: Basics to Advance",
+            "description": "This course is designed to learn how to build scalable and robust web applications using the Django Web Framework. So if you are a Python developer or want to step in to explore the world of Python Web Development and Back-end development, this is your stop. Enrol Now!",
+            "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/730/Web/Content/Mastering-DJango_1715754784.webp"],
+            "provider": {
+                "@type": "Organization",
+                "name": "GeeksforGeeks",
+                "url": "https://www.geeksforgeeks.org/courses"
+            },
+            "hasCourseInstance": [{
+                "@type": "CourseInstance",
+                "name": "Mastering Django Framework: Basics to Advance",
+                "description": "This course is designed to learn how to build scalable and robust web applications using the Django Web Framework. So if you are a Python developer or want to step in to explore the world of Python Web Development and Back-end development, this is your stop. Enrol Now!",
+                "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/730/Web/Content/Mastering-DJango_1715754784.webp"],
+                "courseMode": "Online",
+                "courseSchedule": {
+                    "@type": "Schedule",
+                    "duration": "P1DT7H",
+                    "repeatCount": "12",
+                    "repeatFrequency": "Weekly"
+                }
+            }],
+            "offers": [{
+                "@type": "Offer",
+                "category": "Paid",
+                "price": 2249,
+                "availability": "http://schema.org/InStock",
+                "priceCurrency": "INR"
+            }]
+        }
+    }, {
+        "@type": "ListItem",
+        "position": 15,
+        "item": {
+            "@type": "Course",
+            "url": "https://www.geeksforgeeks.org/courses/mastering-generative-ai-and-chat-gpt",
+            "name": "Mastering Generative AI and ChatGPT",
+            "description": "Embark on our Generative AI course! Learn to creatively generate content with expert guidance. Gain practical skills for real-life applications. Whether you're new or experienced, unleash your creativity with us!",
+            "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/647/Web/Content/gen-web_1716376718.webp"],
+            "provider": {
+                "@type": "Organization",
+                "name": "GeeksforGeeks",
+                "url": "https://www.geeksforgeeks.org/courses"
+            },
+            "hasCourseInstance": [{
+                "@type": "CourseInstance",
+                "name": "Mastering Generative AI and ChatGPT",
+                "description": "Embark on our Generative AI course! Learn to creatively generate content with expert guidance. Gain practical skills for real-life applications. Whether you're new or experienced, unleash your creativity with us!",
+                "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/647/Web/Content/gen-web_1716376718.webp"],
+                "courseMode": "Online",
+                "courseSchedule": {
+                    "@type": "Schedule",
+                    "duration": "PT8H",
+                    "repeatCount": "5",
+                    "repeatFrequency": "Weekly"
+                }
+            }],
+            "offers": [{
+                "@type": "Offer",
+                "category": "Paid",
+                "price": 1499,
+                "availability": "http://schema.org/InStock",
+                "priceCurrency": "INR"
+            }]
+        }
+    }, {
+        "@type": "ListItem",
+        "position": 16,
+        "item": {
+            "@type": "Course",
+            "url": "https://www.geeksforgeeks.org/courses/aws-cloud-practitioner-certification-course",
+            "name": "AWS Cloud Practitioner Certification Course",
+            "description": "Embark on a transformative journey into cloud computing with our AWS Cloud Practitioner Course. Master the essentials of AWS from foundational concepts to security, stability & networking. Enroll now for expert led training & hands-on labs.",
+            "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/570/Web/Content/Course_AWSCloud-min-ezgifcom-png-to-webp-converter_1716442523.webp"],
+            "provider": {
+                "@type": "Organization",
+                "name": "GeeksforGeeks",
+                "url": "https://www.geeksforgeeks.org/courses"
+            },
+            "hasCourseInstance": [{
+                "@type": "CourseInstance",
+                "name": "AWS Cloud Practitioner Certification Course",
+                "description": "Embark on a transformative journey into cloud computing with our AWS Cloud Practitioner Course. Master the essentials of AWS from foundational concepts to security, stability & networking. Enroll now for expert led training & hands-on labs.",
+                "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/570/Web/Content/Course_AWSCloud-min-ezgifcom-png-to-webp-converter_1716442523.webp"],
+                "courseMode": "Online",
+                "courseSchedule": {
+                    "@type": "Schedule",
+                    "duration": "PT5H",
+                    "repeatCount": "3",
+                    "repeatFrequency": "Weekly"
+                }
+            }],
+            "offers": [{
+                "@type": "Offer",
+                "category": "Paid",
+                "price": 1499,
+                "availability": "http://schema.org/InStock",
+                "priceCurrency": "INR"
+            }]
+        }
+    }, {
+        "@type": "ListItem",
+        "position": 17,
+        "item": {
+            "@type": "Course",
+            "url": "https://www.geeksforgeeks.org/courses/Java-Programming-basic-to-advanced",
+            "name": "Master Java Programming - Complete Beginner to Advanced",
+            "description": "Embark on a transformative journey into Java programming with our Mastering Java Course. Learn core concepts, advanced techniques, and hands-on coding. Enroll now for expert-led training!",
+            "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/270/Web/Content/CourseJavaProgrammin_1716371938.webp"],
+            "provider": {
+                "@type": "Organization",
+                "name": "GeeksforGeeks",
+                "url": "https://www.geeksforgeeks.org/courses"
+            },
+            "hasCourseInstance": [{
+                "@type": "CourseInstance",
+                "name": "Master Java Programming - Complete Beginner to Advanced",
+                "description": "Embark on a transformative journey into Java programming with our Mastering Java Course. Learn core concepts, advanced techniques, and hands-on coding. Enroll now for expert-led training!",
+                "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/270/Web/Content/CourseJavaProgrammin_1716371938.webp"],
+                "courseMode": "Online",
+                "courseSchedule": {
+                    "@type": "Schedule",
+                    "duration": "P4DT18H",
+                    "repeatCount": "10",
+                    "repeatFrequency": "Weekly"
+                }
+            }],
+            "offers": [{
+                "@type": "Offer",
+                "category": "Paid",
+                "price": 1499,
+                "availability": "http://schema.org/InStock",
+                "priceCurrency": "INR"
+            }]
+        }
+    }, {
+        "@type": "ListItem",
+        "position": 18,
+        "item": {
+            "@type": "Course",
+            "url": "https://www.geeksforgeeks.org/courses/cpp-programming-basic-to-advanced",
+            "name": "Master C++ Programming - Complete Beginner to Advanced",
+            "description": "Become an ace in C++ Programming Language and master the C++ programming skills from basics to advanced. This course is a complete package of videos, notes & contests from basics to STL libraries & algorithms. The perfect C++ course for beginners.",
+            "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/221/Web/Content/Course_cpp_webp_1716371344.webp"],
+            "provider": {
+                "@type": "Organization",
+                "name": "GeeksforGeeks",
+                "url": "https://www.geeksforgeeks.org/courses"
+            },
+            "hasCourseInstance": [{
+                "@type": "CourseInstance",
+                "name": "Master C++ Programming - Complete Beginner to Advanced",
+                "description": "Become an ace in C++ Programming Language and master the C++ programming skills from basics to advanced. This course is a complete package of videos, notes & contests from basics to STL libraries & algorithms. The perfect C++ course for beginners.",
+                "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/221/Web/Content/Course_cpp_webp_1716371344.webp"],
+                "courseMode": "Online",
+                "courseSchedule": {
+                    "@type": "Schedule",
+                    "duration": "P5DT23H",
+                    "repeatCount": "12",
+                    "repeatFrequency": "Weekly"
+                }
+            }],
+            "offers": [{
+                "@type": "Offer",
+                "category": "Paid",
+                "price": 1499,
+                "availability": "http://schema.org/InStock",
+                "priceCurrency": "INR"
+            }]
+        }
+    }, {
+        "@type": "ListItem",
+        "position": 19,
+        "item": {
+            "@type": "Course",
+            "url": "https://www.geeksforgeeks.org/courses/javascript",
+            "name": "Master JavaScript - Complete Beginner to Advanced",
+            "description": "Looking to become a proficient JavaScript Developer? Well, look no further!!! We have brought to you the most sought-after course to master the JavaScript language and build your own dynamic website from scratch. Enrol Now!!!",
+            "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/345/Web/Content/jsw_1716624629.webp"],
+            "provider": {
+                "@type": "Organization",
+                "name": "GeeksforGeeks",
+                "url": "https://www.geeksforgeeks.org/courses"
+            },
+            "hasCourseInstance": [{
+                "@type": "CourseInstance",
+                "name": "Master JavaScript - Complete Beginner to Advanced",
+                "description": "Looking to become a proficient JavaScript Developer? Well, look no further!!! We have brought to you the most sought-after course to master the JavaScript language and build your own dynamic website from scratch. Enrol Now!!!",
+                "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/345/Web/Content/jsw_1716624629.webp"],
+                "courseMode": "Online",
+                "courseSchedule": {
+                    "@type": "Schedule",
+                    "duration": "P2DT17H",
+                    "repeatCount": "8",
+                    "repeatFrequency": "Weekly"
+                }
+            }],
+            "offers": [{
+                "@type": "Offer",
+                "category": "Paid",
+                "price": 1499,
+                "availability": "http://schema.org/InStock",
+                "priceCurrency": "INR"
+            }]
+        }
+    }, {
+        "@type": "ListItem",
+        "position": 20,
+        "item": {
+            "@type": "Course",
+            "url": "https://www.geeksforgeeks.org/courses/c-Programming-basic-to-advanced",
+            "name": "Master C Programming with Data Structures",
+            "description": "Learn C Programming Language  from the best mentor of all time! This C programming course will help you master all important concepts from basic to advanced level. Master the easy to learn C Language and take your skills to the next level. Start Today!",
+            "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/287/Web/Content/Course_C_Programming_webp_1716371452.webp"],
+            "provider": {
+                "@type": "Organization",
+                "name": "GeeksforGeeks",
+                "url": "https://www.geeksforgeeks.org/courses"
+            },
+            "hasCourseInstance": [{
+                "@type": "CourseInstance",
+                "name": "Master C Programming with Data Structures",
+                "description": "Learn C Programming Language  from the best mentor of all time! This C programming course will help you master all important concepts from basic to advanced level. Master the easy to learn C Language and take your skills to the next level. Start Today!",
+                "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/287/Web/Content/Course_C_Programming_webp_1716371452.webp"],
+                "courseMode": "Online",
+                "courseSchedule": {
+                    "@type": "Schedule",
+                    "duration": "P5DT20H",
+                    "repeatCount": "12",
+                    "repeatFrequency": "Weekly"
+                }
+            }],
+            "offers": [{
+                "@type": "Offer",
+                "category": "Paid",
+                "price": 1499,
+                "availability": "http://schema.org/InStock",
+                "priceCurrency": "INR"
+            }]
+        }
+    }]
+} < /script>
+
+<script type = "application/ld + json " > {
+        "
+        @context ":"
+        https: //schema.org","@type":"WebSite","url":"https://www.geeksforgeeks.org/courses","potentialAction":{"@type":"SearchAction","target":"https://www.geeksforgeeks.org/courses/search?search={search_term_string}","query-input":"required name=search_term_string"}}</script>
+
+
+< script type = "application/ld+json" > {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "GeeksforGeeks",
+    "url": "https://www.geeksforgeeks.org/",
+    "logo": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_complete_logo_2x-min.png",
+    "description": "A computer science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
+    "founder": [{
+        "@type": "Person",
+        "name": "Sandeep Jain",
+        "url": "https://in.linkedin.com/in/sandeep-jain-b3940815"
+    }],
+    "sameAs": ["https://www.facebook.com/geeksforgeeks.org/", "https://twitter.com/geeksforgeeks", "https://www.linkedin.com/company/1299009", "https://www.youtube.com/geeksforgeeksvideos/"]
+} < /script> 
