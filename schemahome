@@ -1,43 +1,43 @@
 < script type = "application/ld+json" > {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    "name": "GeeksforGeeks Courses",
+    "name": "H2K Infosys Courses",
     "itemListElement": [{
         "@type": "ListItem",
         "position": 1,
         "item": {
             "@type": "Course",
-            "url": "https://www.geeksforgeeks.org/courses/dsa-to-development-coding-guide",
-            "name": "DSA to Development: A Complete Guide",
-            "description": "This course is designed to take you on a transformative journey from mastering Data Structures and Algorithms (DSA) to becoming a proficient developer. Whether you aspire to become a full-stack developer or specialize in a specific technology stack, this course provides the essential building blocks for your coding journey starting right from basic programming to building applications.",
-            "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/504/Web/Content/DSA-to-Dev_1705410853.webp"],
+            "url": "https://www.h2kinfosys.com/courses/python-online-training/",
+            "name": "Python Certification Course",
+            "description": "H2k Infosys provides the best python certification course online delivered by established industry experts with real-time projects.",
+            "image": ["https://cdn-ilabman.nitrocdn.com/xtUQWXOfcWGNRAIcJPfqVKOwFVhKDbyl/assets/images/optimized/rev-5ea3166/www.h2kinfosys.com/wp-content/uploads/2024/03/Python-Certification-Course-300x200.jpg"],
             "provider": {
                 "@type": "Organization",
-                "name": "GeeksforGeeks",
-                "url": "https://www.geeksforgeeks.org/courses"
+                "name": "H2K Infosys",
+                "url": "https://www.h2kinfosys.com/all-courses/"
             },
             "hasCourseInstance": [{
                 "@type": "CourseInstance",
-                "name": "DSA to Development: A Complete Guide",
-                "description": "This course is designed to take you on a transformative journey from mastering Data Structures and Algorithms (DSA) to becoming a proficient developer. Whether you aspire to become a full-stack developer or specialize in a specific technology stack, this course provides the essential building blocks for your coding journey starting right from basic programming to building applications.",
-                "image": ["https://media.geeksforgeeks.org/img-practice/prod/courses/504/Web/Content/DSA-to-Dev_1705410853.webp"],
+                "name": "Python Certification Course",
+                "description": "H2k Infosys provides the best python certification course online delivered by established industry experts with real-time projects.",
+                "image": ["https://cdn-ilabman.nitrocdn.com/xtUQWXOfcWGNRAIcJPfqVKOwFVhKDbyl/assets/images/optimized/rev-5ea3166/www.h2kinfosys.com/wp-content/uploads/2024/03/Python-Certification-Course-300x200.jpg"],
                 "courseMode": "Online",
                 "courseSchedule": {
                     "@type": "Schedule",
-                    "duration": "P27DT12H",
-                    "repeatCount": "26",
-                    "repeatFrequency": "Weekly"
+                    "duration": "PT40H",
+                    "repeatCount": "2",
+                    "repeatFrequency": "Monthly"
                 }
             }],
             "offers": [{
                 "@type": "Offer",
                 "category": "Paid",
-                "price": 13999,
+                "price": 1000.00,
                 "availability": "http://schema.org/InStock",
-                "priceCurrency": "INR"
+                "priceCurrency": "USD"
             }]
         }
-    }, {
+    },  {
         "@type": "ListItem",
         "position": 2,
         "item": {
